@@ -1,0 +1,135 @@
+@media (max-width: 576px) {
+  /* Index Page Code Start */
+  .only_carousel_image_height {
+    height: 180px;
+  }
+  .owl_carousel_slider_mobile_image {
+    margin: auto;
+  }
+  .our_features_p2_1_index_page {
+    font-size: 35px;
+  }
+  .our_freatures_learn_more_button_index_page {
+    padding: 8px 30px;
+  }
+  .about_our_company_h1_tag_1_index_page {
+    font-size: 35px;
+  }
+  .our_services_p2_1_index_page {
+    font-size: 35px;
+  }
+  .our_service_learn_more_button_index_page {
+    padding: 8px 30px;
+  }
+  .some_important_faqs_p2_1_index_page {
+    font-size: 35px;
+  }
+  .from_blog_section_p2_1_index_page {
+    font-size: 35px;
+  }
+  .from_blog_learn_more_button_index_page {
+    padding: 8px 30px;
+  }
+  .our_team_section_p2_1_index_page {
+    font-size: 35px;
+  }
+  .testimonial_section_p2_1_index_page {
+    font-size: 35px;
+  }
+  .from_blog_section_card_main_outer_div_index_page {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .our_team_bottom_card_outer_div_index_page {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .footer_header_useful_link_instragram_newsletter_index_page {
+    margin-top: 10px;
+  }
+  .footer_bottom_address_para_1_index_page {
+    font-size: 14px;
+  }
+  .footer_section_input_email_index_page {
+    padding: 15px 60px 15px 14px;
+  }
+  .footer_section_copy_right_section_state_line_div_index_page {
+    margin-top: 24px;
+  }
+  .footer_section_copyright_section_footer_bottom_para_1_index_page {
+    margin: 10px 0px;
+    float: none;
+    text-align: center;
+  }
+  .footer_section_copyright_section_footer_bottom_para_2_index_page {
+    margin: 10px 0px;
+    float: none;
+    text-align: center;
+  }
+  .footer_header_useful_link_instragram_newsletter_index_page {
+    text-align: left;
+  }
+  .footer_section_copy_right_section_state_line_div_index_page {
+    margin: 0px;
+  }
+  .footer_bottom_section_address_main_telephone_outer_div_index_page {
+    margin-bottom: 22px;
+  }
+
+  /* Index Page Code End */
+
+  /* Contact Page Code Start */
+  .sub_slider_main_header_index_page_contact_us_page {
+    font-size: 35px;
+  }
+  .contact_us_p2_1_contact_us_page {
+    font-size: 35px;
+  }
+  /* Contact Page Code End */
+
+  /* About Page Code Start */
+  .mission_vision_values_context_div_padding_about_page,
+  .mission_vision_values_context_div_padding_1_about_page {
+    padding: 10px;
+  }
+  .about_our_company_para_left_index_page {
+    text-align: center;
+    border: none;
+    padding-left: 0px;
+    text-decoration: underline;
+  }
+  /*.mission_vision_values_context_div_padding_1_about_page{
+        padding: 10px;
+    }*/
+  .mission_vision_values_h3_header_tag_about_page {
+    text-align: center;
+  }
+  .about_our_company_para_left_only_padding_index_page {
+    padding-top: 10px;
+  }
+  .mission_vision_values_blank_div_about_page {
+    padding-bottom: 40px;
+  }
+  .mission_vision_values_blank_div_about_page {
+    display: none;
+  }
+  .our_story_right_div_content_about_page {
+    padding: 50px 10px;
+  }
+  .about_our_company_para_left_para_about_page {
+    text-align: justify;
+  }
+
+  .our_story_radius_only_diaplay_none_image {
+    display: block !important;
+  }
+  .our_story_radius_only_padding_image {
+    margin-top: 50px;
+    display: block !important;
+  }
+  .our_story_radius_only_1_padding_image {
+    margin-top: 50px;
+    display: none !important;
+  }
+  /* About Page Code End */
+}

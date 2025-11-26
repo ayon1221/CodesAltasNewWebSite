@@ -1,0 +1,45 @@
+/* @media (max-width: 992px) { */
+/* Index Page Code Start */
+
+/* Index Page Code End */
+
+/* Contact Page Code Start */
+
+/* Contact Page Code End */
+
+/* About Page Code Start */
+/* .our_story_right_div_content_about_page{
+        margin-top: 50px;
+    } */
+/*.mission_vision_values_context_div_padding_1_about_page{
+        padding: 10px;
+    }*/
+
+/* About Page Code End */
+/* } */
+
+@media only screen and (max-width: 992px) {
+  /* Index Page Code Start */
+
+  /* Index Page Code End */
+
+  /* Contact Page Code Start */
+
+  /* Contact Page Code End */
+
+  /* About Page Code Start */
+  .our_story_right_div_content_about_page {
+    margin-top: 50px;
+  }
+  /*.mission_vision_values_context_div_padding_1_about_page{
+        padding: 10px;
+    }*/
+
+  /* About Page Code End */
+}
+
+
+
+
+
+
